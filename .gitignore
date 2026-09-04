@@ -1,0 +1,4 @@
+# Private keys are generated locally, never committed.
+*Private.pem
+*.key
+*.p12
